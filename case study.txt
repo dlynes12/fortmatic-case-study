@@ -1,0 +1,52 @@
+
+Fortmatic
+## Overview and Origin
+Blockchain and Cryptocurrencies
+* Name of company
+Fortmatic
+* When was the company incorporated?
+2018
+* Who are the founders of the company?
+Sean Li
+* How did the idea for the company (or project) come about?
+There was a group of university students who wanted to create a better version of metamask for developers who were building crypto related software.
+* How is the company funded? How much funding have they received?
+$4M dollars in seed funding.
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+They are trying to let people easily integrate there app with the Ethereum blockchain, whether they already have a dApp integrated with web3 or are starting from scratch.
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Developers that are trying to integrate witht he ethereum blockchain.
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+ Fortmatic provides a smooth and delightful experience for both the developers and the app's users. Metamask makes you have one key and can be a pain to use.
+ With fortmatic it is decentralized and you can use one key on different systems.
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Ethereum blockchain and javascript.
+## Landscape:
+
+* What domain of the financial industry is the company in?
+Cryptocurrencies
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+Lots of new technologies and dApp's have been created on ethereum blockchain and other platforms, so the market is growing.
+* What are the other major companies in this domain?
+Metamask is there main competitor but, there software allows ease of use.
+## Results
+
+* What has been the business impact of this company so far?
+They have Partnered with multiple companies in the cryptocurrency field and the list continues to grow.
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Monthly users and what monthly fees those users are paying. They recently received four million dollars in seed funding however so investors see potential.
+* How is your company performing relative to competitors in the same domain?
+The company is performing well as a lot of the software is open source. Since they are able to charge users a monthly fee, I would say they are doing a lot better than most.
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I would reccomend they have fiat on ramp attached to their services so users can easily acquire crypto and make it less of a hurdle for people new to crypto.
+* Why do you think that offering this product or service would benefit the company?
+It would increase there montly users because it is a valuable service to the users of the platform.
+* What technologies would this additional product or service utilize?
+Companies such as MoonPay can partner with them to add this service.
+* Why are these technologies appropriate for your solution?
+These technologies are really important and key for companies moving into web3.0, since to get people to shift there, they need tp have applications existing on that platform.
